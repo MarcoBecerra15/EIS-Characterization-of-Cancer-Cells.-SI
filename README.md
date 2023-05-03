@@ -10,3 +10,4 @@ RF_Manual = Generate Random Forests (RF) Models
 LOOCV Code = Perform Leave-One-Out Cross Validation on the RF models 
 Paper Plotter = Compile PCA Plots 
 Table Paper = Arrange Model Accuracies into Table 
+PCA for EIS Chip Tests = Perform PCA on chip EIS data
